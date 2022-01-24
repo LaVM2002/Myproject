@@ -1,0 +1,93 @@
+body{
+  background-image: url(MaterialeEsercizioLim/background.jpg);
+  background-size: 1500px;
+  background-repeat: no-repeat;
+}
+
+.background{
+  margin: 20px;
+  margin-left: 210px;
+  margin-right: 210px;
+  margin-bottom: 210px;
+  background-color: black;
+  border: 350px solid black;
+  border-bottom: 320px solid black;
+  border-radius: 20px;
+  opacity: 0.5;
+}
+
+.logo{
+  width: 200px;
+  position: absolute;
+  top: 95px;
+  left: 650px;
+}
+
+h1{
+  font-size: 30px;
+  color: lime;
+  position: absolute;
+  top: 175px;
+  left: 580px;
+}
+
+nav > span{
+  position: absolute;
+  top: 235px;
+  left: 300px;
+  background-color: lime;
+  text-align: center;
+  padding: 5px;
+  padding-left: 135px;
+  padding-right: 25px;
+  width: 680px;
+}
+
+.testo{
+  position: absolute;
+  top: 280px;
+  left: 300px;
+  color: white;
+  line-height: 1px;
+}
+
+.modifica{
+  font-size: 20px;
+}
+
+.speciale{
+  width: 300px;
+  background-color: orange;
+  border-color: orange;
+  border-radius: 5px;
+}
+
+.testo-2{
+  position: absolute;
+  top: 400px;
+  left: 300px;
+  color: white;
+  line-height: 1px;
+}
+
+.speciale-2{
+  width: 550px;
+  background-color: lime;
+  border-color: lime;
+  border-radius: 5px;
+}
+
+.testo-3{
+  position: absolute;
+  top: 520px;
+  left: 300px;
+  color: white;
+  line-height: 1px;
+}
+
+.speciale-3{
+  width: 130px;
+  background-color: red;
+  border-color: red;
+  border-radius: 5px;
+}
